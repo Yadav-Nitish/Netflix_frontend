@@ -1,6 +1,6 @@
 
 import { useEffect, useState } from "react"
-import Appcontext from "./Appcontext"
+import AppContext from "./Appcontext"
 import axios from 'axios'
 
 const Appstore = ({children}) =>{
